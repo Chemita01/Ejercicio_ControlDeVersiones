@@ -1,2 +1,3 @@
 14/04/2023 - Hoy he seguido puliendo la IA en la clase de proyectos, despues hemos tenido la sesión de scrum y hemos determinado las tareas para la siguiente semana.
 17/04/2023 - Hoy he creado la mariposa y el sistema de esporas que utiliza para su ataque y he iniciado la programación de la polilla.
+18/04/2023 - Hoy he creado la polilla y el sistema de devolución del proyectil por parte del jugador.
