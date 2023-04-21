@@ -2,3 +2,4 @@
 17/04/2023 - Hoy he creado la mariposa y el sistema de esporas que utiliza para su ataque y he iniciado la programación de la polilla.
 18/04/2023 - Hoy he creado la polilla y el sistema de devolución del proyectil por parte del jugador.
 19/04/2023 - Hoy he seguido con la programación de la polilla, puliendo la mecánica.
+21/04/2023 - Hoy aunque no he podido asistir a clase de proyectos he estado trabajando para mejorar la IA.
